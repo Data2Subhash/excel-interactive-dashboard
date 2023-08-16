@@ -22,7 +22,7 @@ This repository contains an interactive dashboard created in Excel for analyzing
 ## How to Use
 
 1. Download the Excel file (`sales_dashboard.xlsx`) from this repository.
-2. Open the Excel file using Microsoft Excel (Version XYZ or higher).
+2. Open the Excel file using Microsoft Excel (Version 2021 or higher).
 3. Navigate through calculation and dataset sheets to explore different sections of the dashboard.
 4. Use slicers, dropdowns, and filters to customize the data view according to your preferences.
 
