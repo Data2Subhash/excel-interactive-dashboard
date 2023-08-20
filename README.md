@@ -32,8 +32,11 @@ This repository contains an interactive dashboard created in Excel for analyzing
 
 ## Screenshots
 
-![Sales Overview Dashboard](sales dashboard.pdf)
+![Sales Overview Dashboard](salesdashboard.pdf)
 
+## Files
+
+![Sales Overview Dashboard](salesdashboard.xlsx)
 
 ## Contributing
 
